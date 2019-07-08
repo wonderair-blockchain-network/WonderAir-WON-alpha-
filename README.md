@@ -1,4 +1,4 @@
-# go-WonderAir Blockchain Network
+# go-WonderAir Blockchain Network - repository updated with each major release
 General-purpose library for WonderAir blockchain
 
 
